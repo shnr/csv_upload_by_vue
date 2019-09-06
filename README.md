@@ -1,4 +1,4 @@
-# wl_sample
+# csv uploader by vue.js
 
 ## Project setup
 ```
